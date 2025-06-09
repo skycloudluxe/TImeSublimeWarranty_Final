@@ -127,6 +127,7 @@
   padding: 12px;
   background: linear-gradient(to bottom, #0b4958, #0a3d4a);
   border-radius: 10px;
+  border: 1px solid #fffff0;
   width: 100%;
   max-width: 500px;
 }
