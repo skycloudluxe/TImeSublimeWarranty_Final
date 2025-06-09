@@ -12,7 +12,7 @@
   padding: 20px;
   border: 1px solid #fffff0; /* Ivory border */
   border-radius: 10px;
-  box-shadow: 0 0 10px 25px rgba(255, 255, 255, 0.3); /* White haze on black */
+  box-shadow: 0 0 20px 20px rgba(255, 255, 255, 0.3); /* White haze on black */
   background-color: #161616;
   color: #f0f0f0;
   width: 90%;
@@ -24,7 +24,7 @@
 }
 
 .container:hover {
-  box-shadow: 0 0 20px 20px rgba(255, 255, 240, 0.5); /* Brighter on hover */
+  box-shadow: 0 0 25px 25px rgba(255, 255, 240, 0.5); /* Brighter on hover */
   transform: scale(1.01);
 }
 
