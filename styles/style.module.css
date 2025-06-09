@@ -24,7 +24,7 @@
 }
 
 .container:hover {
-  box-shadow: 0 0 60px 20px rgba(255, 255, 240, 0.5); /* Brighter on hover */
+  box-shadow: 0 0 35px 20px rgba(255, 255, 240, 0.5); /* Brighter on hover */
   transform: scale(1.01);
 }
 
